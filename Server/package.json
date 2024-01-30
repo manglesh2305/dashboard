@@ -1,0 +1,23 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "\"Dashboard\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manglesh2305/dashboard.git"
+  },
+  "author": "Manglesh Yadav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manglesh2305/dashboard/issues"
+  },
+  "homepage": "https://github.com/manglesh2305/dashboard#readme",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "express": "^4.18.2"
+  }
+}
